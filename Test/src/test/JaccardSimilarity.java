@@ -129,6 +129,10 @@ public class JaccardSimilarity {
 
 		return intCount / uniCount;
 	}
+	
+	private void test(){
+		
+	}
 
 	public void t(){
 		

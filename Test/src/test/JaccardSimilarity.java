@@ -130,7 +130,7 @@ public class JaccardSimilarity {
 		return intCount / uniCount;
 	}
 	
-	private void test111(){
+	private void test5(){
 		
 	}
 

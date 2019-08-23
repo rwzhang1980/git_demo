@@ -134,7 +134,7 @@ public class JaccardSimilarity {
 		
 	}
 
-	public void t3(){
+	public void t2 (){
 		
 	}
 }
